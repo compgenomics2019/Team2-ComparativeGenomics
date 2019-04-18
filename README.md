@@ -1,5 +1,9 @@
 # Team2-ComparativeGenomics
 
+## USAGE
+Run as:
+./comparative_genomics_scripts/COMPARATIVE_GENOMICS_PIPELINE.sh
+
 ## REQUIREMENTS
 - Install MentaLiST; please follow their installation instructions https://github.com/WGS-TB/MentaLiST
 
