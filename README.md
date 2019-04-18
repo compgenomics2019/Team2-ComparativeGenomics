@@ -1,7 +1,7 @@
 # Team2-ComparativeGenomics
 
 ## REQUIREMENTS
-- install MentaLiST; please follow their installation instructions https://github.com/WGS-TB/MentaLiST
+- Install MentaLiST; please follow their installation instructions https://github.com/WGS-TB/MentaLiST
 
 ## MLST
 ### MLST Requirements
