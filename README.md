@@ -16,6 +16,9 @@ please follow the respective installation instructions
 - install [kSNP3.0_Linux_package](https://sourceforge.net/projects/ksnp/files/)
 - insall [mummer](http://mummer.sourceforge.net/)
 
+## Input
+The input files should be in fastq format
+
 ## MLST
 ### MLST Requirements
 - Must have MentaLiST installed along with its dependencies (ie. Julia: https://julialang.org/downloads/)
