@@ -25,3 +25,6 @@ The output from the MLST analysis can be used to measure "closeness" of the isol
 
 
 ## ANI
+### requirements
+- Python 3: could be installed easily without sudo access using anaconda 
+- mummer: please follow the instructions of the mummer package to install mummer
