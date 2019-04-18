@@ -7,9 +7,9 @@ various bacterial isolates.
 
 ** Written by Jiahan Zhan, Maggie Fisher, Jihyun Park, Vineeth Aljapur, Di Zhou, Bridget Neary ** 
 ## USAGE
-
+~~~~
 ./comparative_genomics_scripts/COMPARATIVE_GENOMICS_PIPELINE.sh
-
+~~~~
 ## REQUIREMENTS
 please follow the respective installation instructions 
 - install [MentaLiST](https://github.com/WGS-TB/MentaLiST) 
