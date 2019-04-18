@@ -11,9 +11,10 @@ various bacterial isolates.
 ./comparative_genomics_scripts/COMPARATIVE_GENOMICS_PIPELINE.sh
 
 ## REQUIREMENTS
-- install MentaLiST; please follow their installation instructions https://github.com/WGS-TB/MentaLiST
-- install kSNP3.0_Linux_package
-- insall mummer
+please follow the respective installation instructions 
+- install [MentaLiST](https://github.com/WGS-TB/MentaLiST) 
+- install [kSNP3.0_Linux_package](https://sourceforge.net/projects/ksnp/files/)
+- insall [mummer](http://mummer.sourceforge.net/)
 
 ## MLST
 ### MLST Requirements
