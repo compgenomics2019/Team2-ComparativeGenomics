@@ -17,3 +17,13 @@ export PATH=/projects/team3/comparatve_genomics/JZ/kSNP/kSNP3.1_Linux_package/kS
 MakeFasta /projects/team2/comp_gen_temp/ksnp_run_folder/input_list.txt /projects/team2/comp_gen_temp/ksnp_run_folder/fastainput
 Kchooser /projects/team2/comp_gen_temp/ksnp_run_folder/fastainput
 kSNP3 -in /projects/team2/comp_gen_temp/ksnp_run_folder/input_list.txt -outdir KSNP_FINAL_RESULT -k 19 -vcf -ML | tee /projects/team2/comp_gen_temp/ksnp_run_folder/log.txt
+
+
+echo "######################## ANI ########################"
+
+export PATH=/projects/home/lrishishwar3/setups/mummer/:$PATH
+
+wget https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
+chmod 755 Anaconda3-2019.03-Linux-x86_64.sh
+./Anaconda3-2019.03-Linux-x86_64.sh
+./get_distance_matrix.py -d /projects/team2/genome_assembly/dataset/Assembled_Contigs/ -o -t 4
