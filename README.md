@@ -1,5 +1,9 @@
 # Team2-ComparativeGenomics
 
+## USAGE
+
+./comparative_genomics_scripts/COMPARATIVE_GENOMICS_PIPELINE.sh
+
 ## REQUIREMENTS
 - install MentaLiST; please follow their installation instructions https://github.com/WGS-TB/MentaLiST
 - install kSNP3.0_Linux_package
