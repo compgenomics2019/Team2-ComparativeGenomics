@@ -1,5 +1,11 @@
 # Team2-ComparativeGenomics
 
+## Summary
+This pipeline is designed by Team 2, Group 4. The purpose is to perform comparative analysis of genomes of 
+various bacterial isolates.
+
+
+** Written by Jiahan Zhan, Maggie Fisher, Jihyun Park, Vineeth Aljapur, Di Zhou, Bridget Neary ** 
 ## USAGE
 
 ./comparative_genomics_scripts/COMPARATIVE_GENOMICS_PIPELINE.sh
