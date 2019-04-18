@@ -3,6 +3,7 @@
 ## REQUIREMENTS
 - install MentaLiST; please follow their installation instructions https://github.com/WGS-TB/MentaLiST
 - install kSNP3.0_Linux_package
+- insall mummer
 
 ## MLST
 ### MLST Requirements
