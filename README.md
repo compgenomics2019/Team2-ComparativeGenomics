@@ -9,7 +9,7 @@
 - fastq raw data in the designated "$dataset" directory: dataset=/projects/team2/genome_assembly/dataset
 
 MentaLiST will run in two steps:
-1. build the kmer database 
+1. Build the kmer database 
   - This will pull fasta files used to build the database and store them in a MLST_FASTA_FILES directory. The database will be outputted    as MLST.db. Both are required for MLST calling.
 2. MLST calling
   - The output from this step will be placed in the ./MLST_RESULTS directory. Several files will be created with the prefix "MLST_calls"; the file with the sequence types will be in the file called MLST_calls.txt
