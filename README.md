@@ -6,7 +6,7 @@
 ## MLST
 ### MLST Requirements
 - Must have MentaLiST installed along with its dependencies (ie. Julia: https://julialang.org/downloads/)
-- fastq raw data in the designated "$dataset" directory: dataset=/projects/team2/genome_assembly/dataset
+- fastq raw data sequences in the designated "$dataset" directory: dataset=/projects/team2/genome_assembly/dataset
 
 MentaLiST will run in two steps:
 1. Build the kmer database 
