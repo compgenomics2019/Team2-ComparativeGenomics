@@ -22,8 +22,4 @@ kSNP3 -in /projects/team2/comp_gen_temp/ksnp_run_folder/input_list.txt -outdir K
 echo "######################## ANI ########################"
 
 export PATH=/projects/home/lrishishwar3/setups/mummer/:$PATH
-
-wget https://repo.anaconda.com/archive/Anaconda3-2019.03-Linux-x86_64.sh
-chmod 755 Anaconda3-2019.03-Linux-x86_64.sh
-./Anaconda3-2019.03-Linux-x86_64.sh
 ./get_distance_matrix.py -d /projects/team2/genome_assembly/dataset/Assembled_Contigs/ -o -t 4
